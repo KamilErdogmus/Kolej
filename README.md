@@ -19,8 +19,8 @@ This project is a college website created using HTML and CSS. The website featur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/college-website.git
-
+   git clone https://github.com/KamilErdogmus/Kolej.git
+   
 ## Link
 
 [Visit the Website](your-website-link-here)
