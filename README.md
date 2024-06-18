@@ -21,6 +21,8 @@ This project is a college website created using HTML and CSS. The website featur
    ```bash
    git clone https://github.com/KamilErdogmus/Kolej.git
    
+2. Open the index.html file in your browser
+   
 ## Link
 
 [Visit the Website](your-website-link-here)
