@@ -1,17 +1,13 @@
 # College Website
 
+## Description
+
+This project is a college website created using HTML and CSS. The website features a clean and responsive design, providing information about the college, courses offered, faculty, and contact details.
+
 ## Technologies Used
 
 - HTML
 - CSS
-
-## Link
-
-[Visit the Website](your-website-link-here)
-
-## Description
-
-This project is a college website created using HTML and CSS. The website features a clean and responsive design, providing information about the college, courses offered, faculty, and contact details.
 
 ## Features
 
@@ -24,3 +20,7 @@ This project is a college website created using HTML and CSS. The website featur
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/college-website.git
+
+## Link
+
+[Visit the Website](your-website-link-here)
